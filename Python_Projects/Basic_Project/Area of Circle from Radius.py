@@ -6,7 +6,5 @@ Area = 3.8013271108436504
 """
 import math
 UserInput = float(input("Enter a radius in mm to get the area of the circle with that radius: "))
-print(str(UserInput))
-PI = math.pi
-Area = PI*UserInput*UserInput
+Area = math.pi*UserInput*UserInput
 print("The Area of the circle is: "+str(Area)+"mm^2")
