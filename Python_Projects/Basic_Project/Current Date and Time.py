@@ -4,12 +4,13 @@ Sample Output :
 Current date and time :
 2014-07-05 14:34:14
 """
-from datetime import date 
+from datetime import date
 from datetime import datetime
-# For debugging purposes
 
 current_date = date.today()
+
 now = datetime.now()
 current_time = now.strftime("%H:%M:%S")
-print(current_date)
-print(current_time)
+
+print(current_date+"\n"+current_time)
+
