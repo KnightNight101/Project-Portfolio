@@ -3,5 +3,5 @@ Write a Python program that accepts the user's first and last name and prints th
 """
 print("Hello! This program converts a first name and last name and prints them in reverse! \n")
 input = input("Please write your first and last name with a space inbetween!: ")
-#for debug purposes
-print(input)
+reverse_input = input[::-1]
+print(reverse_input)
