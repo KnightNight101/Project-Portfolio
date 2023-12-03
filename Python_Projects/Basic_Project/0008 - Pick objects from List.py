@@ -4,4 +4,6 @@ color_list = ["Red","Green","White" ,"Black"]
 Click me to see the sample solution
 """
 color_list = ["Red","Green","White" ,"Black"]
-print(color_list(0)+color_list(4))
+print(color_list[0]+" "+color_list[3])
+
+
