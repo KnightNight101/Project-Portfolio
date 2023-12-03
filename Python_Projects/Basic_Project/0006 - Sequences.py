@@ -26,4 +26,6 @@ List : ['3', ' 5', ' 7', ' 23']
 Tuple : ('3', ' 5', ' 7', ' 23')
 """
 input = input("This is program that accepts a sequence of comma-separated numbers from you and generates a list and a tuple of those numbers: ")
-
+slicenumbers = input.split(",")
+a,b,c,d = slicenumbers
+print(a + "\n" + b + "\n" + c + "\n" + d)
