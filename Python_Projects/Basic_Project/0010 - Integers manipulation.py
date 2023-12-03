@@ -5,5 +5,4 @@ Expected Result : 615
 """
 # Using user input to keep things interesting
 InputValue = int(input("Type in an integer: "))
-OutputValue = InputValue + (11*InputValue) + (111*InputValue)
-print(OutputValue)
+print(InputValue + (11*InputValue) + (111*InputValue))
