@@ -3,7 +3,6 @@ Write a Python program that accepts a filename from the user and prints the exte
 Sample filename : abc.java
 Output : java
 """
-# Just going to make it work for the sample data provided
 file = input("Enter a file name: ")
 Split = file.split(".")
 filename, filetype = Split
