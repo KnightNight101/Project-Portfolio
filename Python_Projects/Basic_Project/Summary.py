@@ -12,6 +12,7 @@ print("Ah yes of course, " + str(LastName)+ ", " + str(FirstName) + "!\n")
 Mood = input("How are you doing today?: ")
 print("Hmmm.... \n")
 # Pick Object from list
+# Pick Object from comma seperate values
 FriendsInput = input("So tell me about your friends, who would you say are your top 3? (separate with commas): ")
 FriendsList = FriendsInput.split(",")
 # Specific Format of Output Text
@@ -22,3 +23,6 @@ print("Good to know...\n\nSend to: "+FriendsList[0]+"@gmail.com; "+FriendsList[1
       "that this is what "+FirstName+" thinks of you:\n\t"+BlackmailInput+"\n\nwhich I just thought was fascinating, don't you?\n\n"+
       "Kind Regards,\n\nPythonAutomationService")
 YesNo = input("\nReady to send?: ")
+print("I'm just messing with you lol\n\nSo I can also do other things you know\n\n")
+# File Identification
+File = 
