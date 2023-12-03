@@ -25,4 +25,8 @@ print("Good to know...\n\nSend to: "+FriendsList[0]+"@gmail.com; "+FriendsList[1
 YesNo = input("\nReady to send?: ")
 print("I'm just messing with you lol\n\nSo I can also do other things you know\n\n")
 # File Identification
-File = 
+File = input("For example I can take file names and tell you what the file type is!\nFor example if you say CV.pdf, I can tell you that that's a pdf"
+             "\nType in a file, making sure to include the extension: ")
+FileSplit = File.split(".")
+FileType = FileSplit[1]
+print("So that's a "+str(FileType)+" File\nCool right?!")
