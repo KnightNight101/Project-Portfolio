@@ -8,8 +8,10 @@ print("Hello, welcome to the Learning Summary Project! \nWe're currently Running
 # String Manipulation
 FullName = input("Please enter your first and last name: ")
 FirstName, LastName = FullName.split()
-print("Ah, " + str(LastName)+ " , first name " + str(FirstName) " !\n")
+print("Ah, " + str(LastName)+ " , first name " + str(FirstName) + " !\n")
 Mood = input("How are you doing today?: ")
 print("Hmmm.... \n")
 # Pick Object from list
-
+FriendsInput = input("So tell me about your friends, who would you say are your top 3? (separate with commas): ")
+FriendsList = FriendsInput.split(",")
+Useless = input("Ok so here's a fun question, why is "+FriendsList[2]+" at the bottom of the list?: ")
