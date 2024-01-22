@@ -1,0 +1,1591 @@
+// Employee
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Simple Grids 2023
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Privacy & Legal
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Careers
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Trusted by
+color: black;
+ font-size: 60px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Join as a Service Provider
+color: black;
+ font-size: 60px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+color: black;
+ font-size: 25px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Join as a service provider
+color: white;
+ font-size: 20.10px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Assessment - Retrofit
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// £240
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Assessment - EPC
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// £240
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Thermal Imaging
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// £240
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// EICR
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// £240
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Solar Panel Cleaning
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// £240
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Heat Pump Quality Audit
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// £240
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Retrofit Co-ordination
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// £240
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Heat Pump Maintenance
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// £240
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Heat Loss Survey
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// £240
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// EV charger installation
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// £240
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// All Services
+color: black;
+ font-size: 40px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Find the perfect package or service for you 
+color: black;
+ font-size: 60px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Postcode
+color: black;
+ font-size: 25px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Age
+color: white;
+ font-size: 20.10px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Problems to address
+color: white;
+ font-size: 20.10px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Narrate the problem in your own words/ click to speak
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// See Results
+color: white;
+ font-size: 20.10px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Number of Bedrooms
+color: white;
+ font-size: 20.10px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Request a quote
+color: white;
+ font-size: 20.10px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Property Type
+color: white;
+ font-size: 20.10px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Solutions
+color: white;
+ font-size: 20.10px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Service Types
+color: white;
+ font-size: 20.10px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Property Age
+color: white;
+ font-size: 20.10px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Max Number of rooms
+color: white;
+ font-size: 20.10px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Request a quote
+color: black;
+ font-size: 40px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Hi there, I am looking for an insulation upgrade along with a Heat pump installation to convert my old oil boiler on my period property located near Oxford. I would like to have someone check out my property 
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// How it works
+color: black;
+ font-size: 39.45px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// We vet a variety of service providers, ensuring that they are all certified and qualified to perform each service they offer and meet all government standards and more. This gives you peace of mind, as you can now be sure that the data you’re receiving is from a trustworthy, professional source, with no pressure on you to make any further purchases. We also have Verified Partners who 
+color: black;
+ font-size: 16.44px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// What are the benefits
+color: black;
+ font-size: 39.45px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Reduce your Energy Bills<br/>Reduce your Carbon Emission<br/>Increase your comfort<br/>
+color: black;
+ font-size: 16.44px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// <br/>Are rooms in your house too hot or cold?<br/>Are you experiencing draughty windows?<br/>Are you thinking of adding a heat pump?<br/>Are you looking for Solar Panel installation?<br/>Are you planning to sell your house soon and would like to increase it’s value?<br/>Are you buying an Electric Vehicle?
+color: black;
+ font-size: 16.44px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Ordering a Whole House energy Health Check-up package from us will allow you to get all the information you need to make an informed decision about your property to combat these problems and more!
+color: black;
+ font-size: 16.44px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// See more results 
+color: white;
+ font-size: 25px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Energy Enhance
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// From £600
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// A Simple Grids Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Solar PV + Battery Charger
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+//  From £28,000
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Installation Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Solar PV - 4kW
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Battery - 10KWH 
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// DNO applications
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Bird proofing
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// [Name of Package]
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// From £1488
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Installation Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// [Name of Package]
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// £1488
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// A Simple Grids Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Energy Base
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// From £450
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// A Simple Grids Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Return on Investment
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Implementation Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Energy Champion
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// From £1275
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// A Simple Grids Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Solar PV
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// From £20,000
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Installation Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// [Name of Package]
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// From £1488
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Installation Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// [Name of Package]
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// £1488
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// A Simple Grids Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Energy Green
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// From £985
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// A Simple Grids Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// All Packages
+color: black;
+ font-size: 40px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Energy Enhance
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// From £600
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// A Simple Grids Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Solar PV + Battery Charger
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+//  From £28,000
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Installation Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Solar PV - 4kW
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Battery - 10KWH 
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// DNO applications
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Bird proofing
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// [Name of Package]
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// From £1488
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Installation Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// [Name of Package]
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// £1488
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// A Simple Grids Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Energy Base
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// From £450
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// A Simple Grids Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Return on Investment
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Implementation Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Energy Champion
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// From £1275
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// A Simple Grids Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Solar PV
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// From £20,000
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Installation Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// [Name of Package]
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// From £1488
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Installation Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// [Name of Package]
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// £1488
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// A Simple Grids Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Energy Green
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// From £985
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// A Simple Grids Package
+color: black;
+ font-size: 15px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Includes:
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Software Assessments
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Physical Tests
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// ROI & Plan
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Quotes
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// All Packages
+color: black;
+ font-size: 40px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Description
+color: black;
+ font-size: 25px;
+ font-family: Calibri;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Home
+color: #494C4F;
+ font-size: 12px;
+ font-family: Roboto;
+ font-weight: 400;
+ letter-spacing: 0.20px;
+ word-wrap: break-word
+---
+// simplegrids.com
+color: #202124;
+ font-size: 14px;
+ font-family: Roboto;
+ font-weight: 400;
+ letter-spacing: 0.25px;
+ word-wrap: break-word
+---
+// /Home
+color: #696A6C;
+ font-size: 14px;
+ font-family: Roboto;
+ font-weight: 400;
+ letter-spacing: 0.25px;
+ word-wrap: break-word
+---
+// Simple Grids
+color: #187BCD;
+ font-size: 40px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// FAQs
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Sign in
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Join as a Service Provider
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Simple Grids 2023
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Privacy & Legal
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Internal
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
+---
+// Careers
+color: black;
+ font-size: 20px;
+ font-family: Calibri;
+ font-weight: 700;
+ word-wrap: break-word
